@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Festus-Osayi/Festus-Osayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 -👋 Hi Everyone...
 -🙋‍♂️I am Festus Osayi...
@@ -16,4 +11,4 @@
 -https://github.com/Festus-Osayi
 -https://twitter.com/Festus_Osayi29
 -https://www.linkedin.com/in/festus-osayi-6aba84221/
--->
+
