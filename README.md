@@ -1,11 +1,20 @@
 
 -👋 Hi Everyone...
--🙋‍♂️I am Festus Osayi...
--👨‍💻 I'm currently studying computer programming In Seneca College ...
--🎓 This is my 2nd year in Seneca College (CPP)
--🔭I am open to work full time and part time ...
--🌱 I’m currently learning C++😀|JavaScript💃|Nodejs💪|DBS311🕺 and a lot more ...
--👯 I’m looking to collaborate on a team and learning from a brilliant mind as myself ...
+<h1> 🙋‍♂️I am Festus Osayi</h1>
+<hr>
+<p> 👨‍💻I'm currently studying computer programming In Seneca College ...</p>
+<small>🎓 This is my 2nd year in Seneca College (CPP) </small>
+<small>🔭 I am open to work full time and part time ...</small>
+<h4> 🌱 I’m currently learning </h4>
+  <ul>
+  <li>C++😀</li>
+  <li>JavaScript💃</li>
+  <li>Nodejs💪</li>
+  <li>DBS311🕺</li>
+  </ul>
+  <h5>and a lot more ...</h5>
+-<em>👯 I’m looking to collaborate on a team and learning from a brilliant mind as myself ...<em>
+<hr>
 -📫 How to reach me: ...
 <ul>
   <li> 📧osayifestus25@outlook.com </li>
