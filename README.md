@@ -4,7 +4,7 @@
 <hr>
 <p> 👨‍💻I'm currently studying computer programming In Seneca College ...</p>
 <small>🎓 This is my 2nd year in Seneca College (CPP) </small>
-<small>🔭 I am open to work full time and part time ...</small>
+<p>🔭 I am open to work full time and part time ...</p>
 <h4> 🌱 I’m currently learning </h4>
   <ul>
   <li>C++😀</li>
