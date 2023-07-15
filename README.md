@@ -12,6 +12,7 @@
   <li>Nodejs💪</li>
   <li>DBS311🕺</li>
   <li>React👌</li>
+  <li>DSA</li>
   </ul>
   <h5>and a lot more ...</h5>
 -<em>👯 I’m looking to collaborate on a team and learning from a brilliant mind as myself ...<em>
