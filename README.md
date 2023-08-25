@@ -10,7 +10,9 @@ lives and the planet as a whole.</p>
 <small>🎓 This is my second year in Seneca College (CPP) </small>
 <p>🔭 I am open to working full-time and part-time...</p>
 <hr>
-  
+### Language and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
 -📫 How to reach me: ...
