@@ -14,9 +14,8 @@ lives and the planet as a whole.</p>
 <p>🔭 I am open to working full-time and part-time...</p>
 <hr>
 
-<h1>Skills</h1>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-<img src='https://skillicons.dev/icons?i=js,html,css,wasm' alt="skills"/>
+<h1>Language and Tools</h1>
+<img src='https://skillicons.dev/icons?i=js,html,css,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode' alt="skills"/>
 
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
