@@ -15,7 +15,7 @@ lives and the planet as a whole.</p>
 <hr>
 
 <h1>Skills</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss)](https://skillicons.dev)
 
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
