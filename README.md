@@ -25,6 +25,14 @@ lives and the planet as a whole.</p>
 <a href='https://www.linkedin.com/in/festus-osayi-6aba84221/'>
   <img src='https://skillicons.dev/icons?i=linkedin' alt="linkedin"/>  
 </a>
+<a href='https://github.com/Festus-Osayi'>
+  <img src='https://skillicons.dev/icons?i=github' alt="github"/>  
+</a>
+ <a href='https://twitter.com/Festus_Osayi29'>
+  <img src='https://skillicons.dev/icons?i=twitter' alt="twitter"/>  
+</a>
+  
+
 
     
    
