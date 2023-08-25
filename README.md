@@ -21,16 +21,11 @@ lives and the planet as a whole.</p>
 - focus on mastering foundational languages and technologies, gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Software Developer.
 - Build more projects😎
 
-<h1>📫 How to reach me </h1>
-<ul>
-  <li>
-    <img src='https://skillicons.dev/icons?i=linkedin' alt="linkedin"/>
-    <alt href='osayifestus25@outlook.com '
-  </li>
-   <li>https://github.com/Festus-Osayi </li>
-  <li>https://twitter.com/Festus_Osayi29</li>
-  <li>https://www.linkedin.com/in/festus-osayi-6aba84221/</li>
-  </ul>
+<h1>How to reach me </h1>
+<img src='https://skillicons.dev/icons?i=linkedin(https://skillicons.dev)' alt="linkedin"/>
+    
+   
+ 
   
 
 
