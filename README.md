@@ -22,7 +22,7 @@ lives and the planet as a whole.</p>
 - Build more projects😎
 
 <h1>How to reach me </h1>
-<a href=''>
+<a href='https://www.linkedin.com/in/festus-osayi-6aba84221/'>
   <img src='https://skillicons.dev/icons?i=linkedin' alt="linkedin"/>  
 </a>
 
