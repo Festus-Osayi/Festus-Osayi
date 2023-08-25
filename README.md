@@ -9,16 +9,9 @@ digital world. I am passionate about coding and the influence technology can hav
 lives and the planet as a whole.</p>
 <small>🎓 This is my second year in Seneca College (CPP) </small>
 <p>🔭 I am open to working full-time and part-time...</p>
-<h4> 🌱 I’m currently learning </h4>
-  <ul>
-  <li>C++😀</li>
-  <li>JavaScript💃</li>
-  <li>Nodejs💪</li>
-  <li>DBS311🕺</li>
-  <li>React👌</li>
-  <li>DSA☺️</li>
-  </ul>
-  <h5>and a lot more ...</h5>
+<h4>Skills</h4>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
 -📫 How to reach me: ...
