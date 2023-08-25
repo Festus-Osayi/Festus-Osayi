@@ -9,19 +9,24 @@ digital world. I am passionate about coding and the influence technology can hav
 lives and the planet as a whole.</p>
 
 <h1>Education</h1>
-<small>🎓 Holy Child secondary school May 2022 - May 2023</small>
 <small>🎓 Seneca College May 2022 - August 2023</small>
 <p>🔭 I am open to working full-time and part-time...</p>
 <hr>
 
 <h1>Language and Tools</h1>
-<img src='https://skillicons.dev/icons?i=js,html,css,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode&perline=5' alt="skills"/>
+<img src='https://skillicons.dev/icons?i=js,html,css,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode,linux&perline=5' alt="skills"/>
 
--<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
-<hr>
--📫 How to reach me: ...
+<h1>My career goals</h1>
+- I’m looking to collaborate on a team and learn from a brilliant mind like myself
+- focus on mastering foundational languages and technologies, gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Software Developer.
+- Build more projects😎
+
+<h1>📫 How to reach me </h1>
 <ul>
-  <li> 📧osayifestus25@outlook.com </li>
+  <li>
+    <img src='https://skillicons.dev/icons?i=linkedin' alt="linkedin"/>
+    <alt href='osayifestus25@outlook.com '
+  </li>
    <li>https://github.com/Festus-Osayi </li>
   <li>https://twitter.com/Festus_Osayi29</li>
   <li>https://www.linkedin.com/in/festus-osayi-6aba84221/</li>
