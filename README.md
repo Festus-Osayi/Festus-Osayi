@@ -33,6 +33,9 @@ lives and the planet as a whole.</p>
  <a href='https://twitter.com/Festus_Osayi29'>
   <img src='https://skillicons.dev/icons?i=twitter' alt="twitter"/>  
 </a>
+<a href='https://twitter.com/Festus_Osayi29'>
+  <img src='https://icons8.com/icon/OumT4lIcOllS/mail' alt="mail"/>  
+</a>
   
 
 
