@@ -12,7 +12,7 @@ lives and the planet as a whole.</p>
 <hr>
 ### Language and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
 -📫 How to reach me: ...
