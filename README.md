@@ -18,8 +18,9 @@ lives and the planet as a whole.</p>
 <hr>
 
 <h1>My career goals</h1>
-- I’m looking to collaborate on a team and learn from a brilliant mind like myself
-- focus on mastering foundational languages and technologies, gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Software Developer.
+- I’m looking to collaborate on a team and learn from a brilliant mind like myself <br>
+- focus on mastering foundational languages and technologies. <br>
+- gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Software Developer. <br>
 - Build more projects😎
 <hr>
 
@@ -33,9 +34,7 @@ lives and the planet as a whole.</p>
  <a href='https://twitter.com/Festus_Osayi29'>
   <img src='https://skillicons.dev/icons?i=twitter' alt="twitter"/>  
 </a>
-<a href='https://twitter.com/Festus_Osayi29'>
-  <img src='https://icons8.com/icon/OumT4lIcOllS/mail' alt="mail"/>  
-</a>
+
   
 
 
