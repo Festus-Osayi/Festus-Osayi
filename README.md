@@ -11,6 +11,8 @@ lives and the planet as a whole.</p>
 <p>🔭 I am open to working full-time and part-time...</p>
 <hr>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
 -📫 How to reach me: ...
