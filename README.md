@@ -22,7 +22,10 @@ lives and the planet as a whole.</p>
 - Build more projects😎
 
 <h1>How to reach me </h1>
-<img src='https://skillicons.dev/icons?i=linkedin(https://skillicons.dev)' alt="linkedin"/>
+<a href=''>
+  <img src='https://skillicons.dev/icons?i=linkedin' alt="linkedin"/>  
+</a>
+
     
    
  
