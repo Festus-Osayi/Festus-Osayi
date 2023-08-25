@@ -13,7 +13,8 @@ lives and the planet as a whole.</p>
 ### Language and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="JavaScript" width="26px" src="https://icons8.com/icon/108784/javascript" style="padding-right:10px;" />
+![icons8-javascript-48](https://github.com/Festus-Osayi/Festus-Osayi/assets/105089377/79da3780-4b6a-45dd-8193-6e7c0ec1d707)
+
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
 -📫 How to reach me: ...
