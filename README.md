@@ -16,6 +16,7 @@ lives and the planet as a whole.</p>
 
 <h1>Skills</h1>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<img src='https://skillicons.dev/icons?i=js,html,css,wasm' alt="skills"/>
 
 -<em>👯 I’m looking to collaborate on a team and learn from a brilliant mind like myself ...<em>
 <hr>
