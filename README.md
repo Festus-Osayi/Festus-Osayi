@@ -14,7 +14,7 @@ lives and the planet as a whole.</p>
 <hr>
 
 <h1>Language and Tools</h1>
-<img src='https://skillicons.dev/icons?i=js,html,css,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode,linux&perline=6' alt="skills"/>
+<img src='https://skillicons.dev/icons?i=js,html,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode,linux&perline=6' alt="skills"/>
 <hr>
 
 <h1>My career goals</h1>
