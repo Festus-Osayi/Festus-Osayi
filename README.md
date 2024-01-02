@@ -3,11 +3,9 @@
 <h1>Introduction</h1>
 <hr>
 
-<p> I am Festus Osayi, and I am originally from Nigeria. Additionally, I am currently pursuing a 
-career in computer programming at Seneca College, and as a computer programmer. I consider 
-myself a creative problem solver who is always looking for new ways to address problems in the 
-digital world. I am passionate about coding and the influence technology can have on people's 
-lives and the planet as a whole.</p>
+<p>
+ Hello! I'm Festus Osayi, a computer programming graduate from Seneca College. My educational background equipped me with skills in mobile development, software testing, web development, distributed programming techniques, and database administration, and I have immersed myself in several programming languages and cutting-edge technologies because I have a deep interest in technology. My primary concentration has been full-stack development, and I am skilled in HTML, CSS, JavaScript, and React. Working in various teams is a wonderful experience for me, and I'm eager to lend my abilities to unique projects and dynamic teams. Let's connect and talk about possible cooperation!
+</p>
 <hr>
 <h1>Education</h1>
 <small>🎓 Seneca College May 2022 - August 2023</small>
