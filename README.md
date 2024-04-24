@@ -4,7 +4,7 @@
 <hr>
 
 <p>
- Hello! I'm Festus Osayi, a computer programming graduate from Seneca College. My educational background equipped me with skills in mobile development, software testing, web development, distributed programming techniques, and database administration, and I have immersed myself in several programming languages and cutting-edge technologies because I have a deep interest in technology. My primary concentration has been full-stack development, and I am skilled in HTML, CSS, JavaScript, and React. Working in various teams is a wonderful experience for me, and I'm eager to lend my abilities to unique projects and dynamic teams. Let's connect and talk about possible cooperation!
+Festus Osayi is a passionate computer programmer whose journey with coding commenced in 2021 upon his relocation to Canada. As a graduate in computer programming, he has since honed his skills and expertise, making programming second nature to him. Festus finds fulfillment in the process of turning his ideas into tangible realities, finding joy and satisfaction in every project he undertakes. His dedication to his craft is evident in his unwavering pursuit of excellence, regardless of the emotions he experiences along the way. Festus Osayi is not just a programmer; he is a visionary who thrives on the creative process and welcomes opportunities for collaboration and cooperation to bring innovative ideas to life.
 </p>
 <hr>
 <h1>Education</h1>
