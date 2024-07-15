@@ -4,7 +4,15 @@
 <hr>
 
 <p>
-Festus Osayi is a passionate computer programmer whose journey with coding commenced in 2021 upon his relocation to Canada. As a graduate in computer programming, he has since honed his skills and expertise, making programming second nature to him. Festus finds fulfillment in the process of turning his ideas into tangible realities, finding joy and satisfaction in every project he undertakes. His dedication to his craft is evident in his unwavering pursuit of excellence, regardless of the emotions he experiences along the way. Festus Osayi is not just a programmer; he is a visionary who thrives on the creative process and welcomes opportunities for collaboration and cooperation to bring innovative ideas to life.
+Festus's passion for coding stems from his love for problem-solving and creating solutions through technology. He is constantly seeking to expand his knowledge and skills in various programming languages and frameworks, always staying ahead of the curve in the ever-evolving tech industry.
+</p>
+
+<p>
+In addition to his technical expertise, Festus is a strong communicator and team player, able to effectively collaborate with others to achieve project goals. He values diversity and inclusivity in the tech community, actively promoting a supportive and inclusive environment for all individuals.
+</p>
+
+<p>
+Overall, Festus Osayi is a driven and talented programmer who is dedicated to pushing boundaries and creating innovative solutions in the world of technology. His passion, creativity, and commitment make him a valuable asset to any team or project he is involved in.
 </p>
 <hr>
 <h1>Education</h1>
