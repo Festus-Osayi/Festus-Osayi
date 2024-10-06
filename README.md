@@ -26,7 +26,7 @@ Overall, Festus Osayi is a driven and talented programmer who is dedicated to pu
 <h1>My career goals</h1>
 - I’m looking to collaborate on a team and learn from a brilliant mind like myself <br>
 - focus on mastering foundational languages and technologies. <br>
-- gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Software Developer. <br>
+- gaining hands-on experience, networking, and a long-term goal of progressing to roles such as Senior DevOps Engineer. <br>
 - Build more projects😎
 <hr>
 
