@@ -20,7 +20,7 @@ Overall, Festus Osayi is a driven and talented programmer who is dedicated to pu
 <hr>
 
 <h1>Language and Tools</h1>
-<img src='https://skillicons.dev/icons?i=js,html,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode,linux,docker,kubernetes,ansible,terraform&perline=6' alt="skills"/>
+<img src='https://skillicons.dev/icons?i=js,html,c,cpp,css,express,github,mysql,nextjs,nodejs,postgres,py,react,sequelize,tailwind,vscode,linux,docker,kubernetes,ansible,terraform,github&perline=6' alt="skills"/>
 <hr>
 
 <h1>My career goals</h1>
